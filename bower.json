@@ -1,0 +1,8 @@
+{
+  "name": "portal-core",
+  "version": "0.0.1",
+  "main": "./portal-core.js",
+  "ignore": [],
+  "dependencies": {
+  }
+}
