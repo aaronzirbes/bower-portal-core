@@ -4,5 +4,5 @@ This repo is for distribution on bower. The source for this module is in the mai
 ### bower
 
 ```shell
-bower install git@github.com:PeopleNet/portal-core
+bower install git@github.com:PeopleNet/bower-portal-core
 ```
