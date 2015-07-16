@@ -1,10 +1,11 @@
 {
   "name": "portal-core",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "main": "./portal-core.js",
   "ignore": [],
   "dependencies": {
     "angular": "~1.4.3",
-    "angular-local-storage": "~0.2.2"
+    "angular-local-storage": "~0.2.2",
+    "lodash": "~3.10.0"
   }
 }
