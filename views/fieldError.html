@@ -1,0 +1,8 @@
+<div class="row" ng-show="service.fieldErrors[field]">
+    <div class="{{fieldClass}}"></div>
+    <div class="{{errorClass}}">
+        <div class="error-block">
+            <div class="alert alert-danger alert-inline"><span class="fa fa-exclamation-circle"></span> {{service.fieldErrors[field].message}}</div>
+        </div>
+    </div>
+</div>
